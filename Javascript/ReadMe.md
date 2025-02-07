@@ -28,4 +28,7 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Get Middle Character**  
 🔗 [Problem](https://www.codewars.com/kata/56747fd5cb988479af000028) | [Solution](./7-kyu/getMiddle.js)
 
+📌 **String Cleaning**  
+🔗 [Problem](https://www.codewars.com/kata/57e1e61ba396b3727c000251) | [Solution](./8-kyu/string-cleaning.js)
+
 ---
