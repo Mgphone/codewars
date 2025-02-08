@@ -15,6 +15,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Welcome**  
 🔗 [Problem](https://www.codewars.com/kata/577ff15ad648a14b780000e7) | [Solution](./8-kyu/welcome.js)
 
+📌 **String Cleaning**  
+🔗 [Problem](https://www.codewars.com/kata/57e1e61ba396b3727c000251) | [Solution](./8-kyu/string-cleaning.js)
+
 ---
 
 ## 🔵 7 Kyu Problems
@@ -28,7 +31,7 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Get Middle Character**  
 🔗 [Problem](https://www.codewars.com/kata/56747fd5cb988479af000028) | [Solution](./7-kyu/getMiddle.js)
 
-📌 **String Cleaning**  
-🔗 [Problem](https://www.codewars.com/kata/57e1e61ba396b3727c000251) | [Solution](./8-kyu/string-cleaning.js)
+📌 **Flatten and sort an array**  
+🔗 [Problem](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f) | [Solution](./7-kyu/flattenAndSort.js)
 
 ---
