@@ -37,11 +37,14 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Regex validate PIN code**  
 🔗 [Problem](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132) | [Solution](./7-kyu/validatePIN.js)
 
+📌 **Birthday I - Cake**  
+🔗 [Problem](https://www.codewars.com/kata/5805ed25c2799821cb000005) | [Solution](./7-kyu/cake.js)
+
 ---
 
 ## 🟣 6 Kyu Problems
 
-📌 **Regex validate PIN code**  
+📌 **Who likes it?**  
 🔗 [Problem](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) | [Solution](./6-kyu/likes.js)
 
 ## 🟠 5 Kyu Problems
