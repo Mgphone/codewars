@@ -34,4 +34,7 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Flatten and sort an array**  
 🔗 [Problem](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f) | [Solution](./7-kyu/flattenAndSort.js)
 
+📌 **Regex validate PIN code**  
+🔗 [Problem](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132) | [Solution](./7-kyu/validatePIN.js)
+
 ---
