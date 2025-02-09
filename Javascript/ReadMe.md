@@ -46,6 +46,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Factorial**  
 🔗 [Problem](https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc) | [Solution](./7-kyu/factorial.js)
 
+📌 **Coding Meetup #3 - Higher-Order Functions Series - Is Ruby coming**  
+🔗 [Problem](https://www.codewars.com/kata/5827acd5f524dd029d0005a4) | [Solution](./7-kyu/isRubyComing.js)
+
 ---
 
 ## 🟣 6 Kyu Problems
