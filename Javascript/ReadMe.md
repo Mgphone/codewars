@@ -43,6 +43,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Birthday I - Cake**  
 🔗 [Problem](https://www.codewars.com/kata/5805ed25c2799821cb000005) | [Solution](./7-kyu/cake.js)
 
+📌 **Factorial**  
+🔗 [Problem](https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc) | [Solution](./7-kyu/factorial.js)
+
 ---
 
 ## 🟣 6 Kyu Problems
