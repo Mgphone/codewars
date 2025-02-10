@@ -12,18 +12,20 @@ This repository contains my **personal solutions** to CodeWars challenges. The p
 
 ## 📂 **Structure**
 
-The solutions are categorized by programming language and difficulty level:  
-/Python
-├── 8kyu/
-├── 7kyu/
-├── 6kyu/
-├── 5kyu/
+The solutions are categorized by programming language and difficulty level:
+
+/Python  
+├── 8kyu/  
+├── 7kyu/  
+├── 6kyu/  
+├── 5kyu/  
 ├── README.md (Links and Solutions)
-/JavaScript
-├── 8kyu/
-├── 7kyu/
-├── 6kyu/
-├── 5kyu/
+
+/JavaScript  
+├── 8kyu/  
+├── 7kyu/  
+├── 6kyu/  
+├── 5kyu/  
 ├── README.md (Links and Solutions)
 
 ## 💡 **Why This Repository?**

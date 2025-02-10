@@ -21,6 +21,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Expressions Matter**  
 🔗 [Problem](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e) | [Solution](./8-kyu/expressionMatter.js)
 
+📌 **Do you speak "English"?**  
+🔗 [Problem](https://www.codewars.com/kata/58dbdccee5ee8fa2f9000058) | [Solution](./8-kyu/spEng.js)
+
 ---
 
 ## 🔵 7 Kyu Problems
