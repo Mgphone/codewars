@@ -62,6 +62,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Who likes it?**  
 🔗 [Problem](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) | [Solution](./6-kyu/likes.js)
 
+📌 **Break camelCase**  
+🔗 [Problem](https://www.codewars.com/kata/5208f99aee097e6552000148) | [Solution](./6-kyu/solution.js)
+
 ## 🟠 5 Kyu Problems
 
 ---
