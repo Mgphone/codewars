@@ -52,6 +52,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Coding Meetup #3 - Higher-Order Functions Series - Is Ruby coming**  
 🔗 [Problem](https://www.codewars.com/kata/5827acd5f524dd029d0005a4) | [Solution](./7-kyu/isRubyComing.js)
 
+📌 **Understanding closures - the basics**  
+🔗 [Problem](https://www.codewars.com/kata/56b71b1dbd06e6d88100092a) | [Solution](./7-kyu/buildFun.js)
+
 ---
 
 ## 🟣 6 Kyu Problems
