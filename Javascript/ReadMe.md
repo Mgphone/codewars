@@ -24,6 +24,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Do you speak "English"?**  
 🔗 [Problem](https://www.codewars.com/kata/58dbdccee5ee8fa2f9000058) | [Solution](./8-kyu/spEng.js)
 
+📌 **Regular Ball Super Ball**  
+🔗 [Problem](https://www.codewars.com/kata/53f0f358b9cb376eca001079) | [Solution](./8-kyu/ballType.js)
+
 ---
 
 ## 🔵 7 Kyu Problems
