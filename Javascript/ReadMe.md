@@ -27,6 +27,12 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Regular Ball Super Ball**  
 🔗 [Problem](https://www.codewars.com/kata/53f0f358b9cb376eca001079) | [Solution](./8-kyu/ballType.js)
 
+📌 **Convert a String to a Number!**  
+🔗 [Problem](https://www.codewars.com/kata/544675c6f971f7399a000e79) | [Solution](./8-kyu/stringToNumber.js)
+
+📌 **Enumerable Magic - Does My List Include This?**  
+🔗 [Problem](https://www.codewars.com/kata/545991b4cbae2a5fda000158) | [Solution](./8-kyu/include.js)
+
 ---
 
 ## 🔵 7 Kyu Problems
@@ -57,6 +63,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 
 📌 **Understanding closures - the basics**  
 🔗 [Problem](https://www.codewars.com/kata/56b71b1dbd06e6d88100092a) | [Solution](./7-kyu/buildFun.js)
+
+📌 **Sum of the first nth term of Series**  
+🔗 [Problem](https://www.codewars.com/kata/555eded1ad94b00403000071) | [Solution](./7-kyu/seriesSum.js)
 
 ---
 
