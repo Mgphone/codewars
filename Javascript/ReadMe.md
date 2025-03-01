@@ -33,6 +33,18 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Enumerable Magic - Does My List Include This?**  
 🔗 [Problem](https://www.codewars.com/kata/545991b4cbae2a5fda000158) | [Solution](./8-kyu/include.js)
 
+📌 **Exclamation marks series #4: Remove all exclamation marks from sentence but ensure a exclamation mark at the end of string**  
+🔗 [Problem](https://www.codewars.com/kata/57faf12b21c84b5ba30001b0) | [Solution](./8-kyu/remove.js)
+
+📌 **Simple validation of a username with regex**  
+🔗 [Problem](https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023) | [Solution](./8-kyu/validateUsr.js)
+
+📌 **Training JS #4: Basic data types--Array**  
+🔗 [Problem](https://www.codewars.com/kata/571effabb625ed9b0600107a) | [Solution](./8-kyu/getLength.js)
+
+📌 **CSV representation of array**  
+🔗 [Problem](https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036) | [Solution](./8-kyu/toCsvText.js)
+
 ---
 
 ## 🔵 7 Kyu Problems
@@ -67,6 +79,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Sum of the first nth term of Series**  
 🔗 [Problem](https://www.codewars.com/kata/555eded1ad94b00403000071) | [Solution](./7-kyu/seriesSum.js)
 
+📌 **Love vs friendship**  
+🔗 [Problem](https://www.codewars.com/kata/59706036f6e5d1e22d000016) | [Solution](./7-kyu/wordsToMarks.js)
+
 ---
 
 ## 🟣 6 Kyu Problems
@@ -76,6 +91,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 
 📌 **Break camelCase**  
 🔗 [Problem](https://www.codewars.com/kata/5208f99aee097e6552000148) | [Solution](./6-kyu/solution.js)
+
+📌 **Multiplication table**  
+🔗 [Problem](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08) | [Solution](./6-kyu/multiplicationTable.js)
 
 ## 🟠 5 Kyu Problems
 
