@@ -81,6 +81,8 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 
 📌 **Love vs friendship**  
 🔗 [Problem](https://www.codewars.com/kata/59706036f6e5d1e22d000016) | [Solution](./7-kyu/wordsToMarks.js)
+📌 **Jaden Casing Strings**  
+🔗 [Problem](https://www.codewars.com/kata/5390bac347d09b7da40006f6) | [Solution](./7-kyu/jadenCase.js)
 
 ---
 
@@ -94,6 +96,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 
 📌 **Multiplication table**  
 🔗 [Problem](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08) | [Solution](./6-kyu/multiplicationTable.js)
+
+📌 **Count characters in your string**  
+🔗 [Problem](https://www.codewars.com/kata/52efefcbcdf57161d4000091) | [Solution](./6-kyu/count.js)
 
 ## 🟠 5 Kyu Problems
 
