@@ -45,6 +45,12 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **CSV representation of array**  
 🔗 [Problem](https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036) | [Solution](./8-kyu/toCsvText.js)
 
+📌 **Reversed Strings**  
+🔗 [Problem](https://www.codewars.com/kata/5168bb5dfe9a00b126000018) | [Solution](./8-kyu/solution.js)
+
+📌 **Remove String Spaces**  
+🔗 [Problem](https://www.codewars.com/kata/57eae20f5500ad98e50002c5) | [Solution](./8-kyu/nospace.js)
+
 ---
 
 ## 🔵 7 Kyu Problems
@@ -81,8 +87,15 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 
 📌 **Love vs friendship**  
 🔗 [Problem](https://www.codewars.com/kata/59706036f6e5d1e22d000016) | [Solution](./7-kyu/wordsToMarks.js)
+
 📌 **Jaden Casing Strings**  
 🔗 [Problem](https://www.codewars.com/kata/5390bac347d09b7da40006f6) | [Solution](./7-kyu/jadenCase.js)
+
+📌 **Descending Order**  
+🔗 [Problem](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) | [Solution](./7-kyu/descendingOrder.js)
+
+📌 **Anagram Detection**  
+🔗 [Problem](https://www.codewars.com/kata/529eef7a9194e0cbc1000255) | [Solution](./7-kyu/Anagram.js)
 
 ---
 
@@ -99,6 +112,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 
 📌 **Count characters in your string**  
 🔗 [Problem](https://www.codewars.com/kata/52efefcbcdf57161d4000091) | [Solution](./6-kyu/count.js)
+
+📌 **Find The Parity Outlier**  
+🔗 [Problem](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) | [Solution](./6-kyu/findOutlier.js)
 
 ## 🟠 5 Kyu Problems
 
