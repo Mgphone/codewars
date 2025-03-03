@@ -51,6 +51,15 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Remove String Spaces**  
 🔗 [Problem](https://www.codewars.com/kata/57eae20f5500ad98e50002c5) | [Solution](./8-kyu/nospace.js)
 
+📌 **Price of Mangoes**  
+🔗 [Problem](https://www.codewars.com/kata/57a77726bb9944d000000b06) | [Solution](./8-kyu/mango.js)
+
+📌 **I love you, a little , a lot, passionately ... not at all**  
+🔗 [Problem](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296) | [Solution](./8-kyu/howMuchILoveYou.js)
+
+📌 **Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right**  
+🔗 [Problem](https://www.codewars.com/kata/57faf7275c991027af000679) | [Solution](./8-kyu/exclamatoinRemove.js)
+
 ---
 
 ## 🔵 7 Kyu Problems
@@ -96,6 +105,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 
 📌 **Anagram Detection**  
 🔗 [Problem](https://www.codewars.com/kata/529eef7a9194e0cbc1000255) | [Solution](./7-kyu/Anagram.js)
+
+📌 **Words to sentence**  
+🔗 [Problem](https://www.codewars.com/kata/529eef7a9194e0cbc1000255) | [Solution](./7-kyu/wordsToSentence.js)
 
 ---
 
