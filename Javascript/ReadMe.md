@@ -72,6 +72,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Remove duplicates from list**  
 🔗 [Problem](https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118) | [Solution](./8-kyu/distinct.js)
 
+📌 **Correct the mistakes of the character recognition software**  
+🔗 [Problem](https://www.codewars.com/kata/577bd026df78c19bca0002c0) | [Solution](./8-kyu/correct.js)
+
 ---
 
 ## 🔵 7 Kyu Problems
@@ -139,6 +142,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 
 📌 **Find The Parity Outlier**  
 🔗 [Problem](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) | [Solution](./6-kyu/findOutlier.js)
+
+📌 **Find the unique number**  
+🔗 [Problem](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) | [Solution](./6-kyu/findUniq.js)
 
 ## 🟠 5 Kyu Problems
 
