@@ -60,6 +60,18 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right**  
 🔗 [Problem](https://www.codewars.com/kata/57faf7275c991027af000679) | [Solution](./8-kyu/exclamatoinRemove.js)
 
+📌 **The 'if' function**  
+🔗 [Problem](https://www.codewars.com/kata/54147087d5c2ebe4f1000805) | [Solution](./8-kyu/theIf.js)
+
+📌 **Remove the time**  
+🔗 [Problem](https://www.codewars.com/kata/56b0ff16d4aa33e5bb00008e) | [Solution](./8-kyu/theIf.js)
+
+📌 **Training JS #10: loop statement --for**  
+🔗 [Problem](https://www.codewars.com/kata/5721a78c283129e416000999) | [Solution](./8-kyu/pickIt.js)
+
+📌 **Remove duplicates from list**  
+🔗 [Problem](https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118) | [Solution](./8-kyu/distinct.js)
+
 ---
 
 ## 🔵 7 Kyu Problems
