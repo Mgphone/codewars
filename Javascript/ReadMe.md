@@ -75,6 +75,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Correct the mistakes of the character recognition software**  
 🔗 [Problem](https://www.codewars.com/kata/577bd026df78c19bca0002c0) | [Solution](./8-kyu/correct.js)
 
+📌 **Exclamation marks series #2: Remove all exclamation marks from the end of sentence**  
+🔗 [Problem](https://www.codewars.com/kata/57faece99610ced690000165) | [Solution](./8-kyu/removeLastExclamtion.js)
+
 ---
 
 ## 🔵 7 Kyu Problems
