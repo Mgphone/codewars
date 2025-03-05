@@ -124,6 +124,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Words to sentence**  
 🔗 [Problem](https://www.codewars.com/kata/529eef7a9194e0cbc1000255) | [Solution](./7-kyu/wordsToSentence.js)
 
+📌 **Minimize Sum Of Array (Array Series #1)**  
+🔗 [Problem](https://www.codewars.com/kata/5a523566b3bfa84c2e00010b) | [Solution](./7-kyu/minSum.js)
+
 ---
 
 ## 🟣 6 Kyu Problems
@@ -145,6 +148,10 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 
 📌 **Find the unique number**  
 🔗 [Problem](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) | [Solution](./6-kyu/findUniq.js)
+
+📌 **Highest Scoring Word**  
+🔗 [Problem](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272) | [Solution](./6-kyu/high.js)
+
 
 ## 🟠 5 Kyu Problems
 
