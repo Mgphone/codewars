@@ -78,6 +78,21 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Exclamation marks series #2: Remove all exclamation marks from the end of sentence**  
 🔗 [Problem](https://www.codewars.com/kata/57faece99610ced690000165) | [Solution](./8-kyu/removeLastExclamtion.js)
 
+📌 **How many stairs will Suzuki climb in 20 years?**  
+🔗 [Problem](https://www.codewars.com/kata/56fc55cd1f5a93d68a001d4e) | [Solution](./8-kyu/stairsIn20.js)
+
+📌 **Pillars**  
+🔗 [Problem](https://www.codewars.com/kata/5bb0c58f484fcd170700063d) | [Solution](./8-kyu/pillars.js)
+
+📌 **Who is going to pay for the wall?**  
+🔗 [Problem](https://www.codewars.com/kata/58bf9bd943fadb2a980000a7) | [Solution](./8-kyu/whoIsPaying.js)
+
+📌 **Training JS #8: Conditional statement--switch**  
+🔗 [Problem](https://www.codewars.com/kata/572059afc2f4612825000d8a) | [Solution](./8-kyu/howManyDays.js)
+
+📌 **Regex count lowercase letters**  
+🔗 [Problem](https://www.codewars.com/kata/56a946cd7bd95ccab2000055) | [Solution](./8-kyu/lowercaseCount.js)
+
 ---
 
 ## 🔵 7 Kyu Problems
@@ -130,6 +145,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Minimize Sum Of Array (Array Series #1)**  
 🔗 [Problem](https://www.codewars.com/kata/5a523566b3bfa84c2e00010b) | [Solution](./7-kyu/minSum.js)
 
+📌 **Sum of numbers from 0 to N**  
+🔗 [Problem](https://www.codewars.com/kata/56e9e4f516bcaa8d4f001763) | [Solution](./7-kyu/SequenceSum.js)
+
 ---
 
 ## 🟣 6 Kyu Problems
@@ -154,6 +172,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 
 📌 **Highest Scoring Word**  
 🔗 [Problem](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272) | [Solution](./6-kyu/high.js)
+
+📌 **Delete occurrences of an element if it occurs more than n times**  
+🔗 [Problem](https://www.codewars.com/kata/554ca54ffa7d91b236000023) | [Solution](./6-kyu/high.js)
 
 
 ## 🟠 5 Kyu Problems
