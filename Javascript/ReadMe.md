@@ -93,6 +93,12 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Regex count lowercase letters**  
 🔗 [Problem](https://www.codewars.com/kata/56a946cd7bd95ccab2000055) | [Solution](./8-kyu/lowercaseCount.js)
 
+📌 **Is this my tail?**  
+🔗 [Problem](https://www.codewars.com/kata/56f695399400f5d9ef000af5) | [Solution](./8-kyu/correctTail.js)
+
+📌 **My head is at the wrong end!**  
+🔗 [Problem](https://www.codewars.com/kata/56f699cd9400f5b7d8000b55) | [Solution](./8-kyu/fixTheMeerkat.js)
+
 ---
 
 ## 🔵 7 Kyu Problems
@@ -147,6 +153,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 
 📌 **Sum of numbers from 0 to N**  
 🔗 [Problem](https://www.codewars.com/kata/56e9e4f516bcaa8d4f001763) | [Solution](./7-kyu/SequenceSum.js)
+
+📌 **Row Weights**  
+🔗 [Problem](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9) | [Solution](./7-kyu/rowWeights.js)
 
 ---
 
