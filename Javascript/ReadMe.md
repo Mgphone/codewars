@@ -99,6 +99,15 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **My head is at the wrong end!**  
 🔗 [Problem](https://www.codewars.com/kata/56f699cd9400f5b7d8000b55) | [Solution](./8-kyu/fixTheMeerkat.js)
 
+📌 **Sum of differences in array**  
+🔗 [Problem](https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e) | [Solution](./8-kyu/sumOfDifferences.js)
+
+📌 **Fundamentals: Return**  
+🔗 [Problem](https://www.codewars.com/kata/55a5befdf16499bffb00007b) | [Solution](./8-kyu/fundamentals.js)
+
+📌 **Multiply the number**  
+🔗 [Problem](https://www.codewars.com/kata/5708f682c69b48047b000e07) | [Solution](./8-kyu/multiply.js)
+
 ---
 
 ## 🔵 7 Kyu Problems
@@ -162,6 +171,12 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 
 📌 **Powers of 3**  
 🔗 [Problem](https://www.codewars.com/kata/57be674b93687de78c0001d9) | [Solution](./7-kyu/largestPower.js)
+
+📌 **Alphabet war**  
+🔗 [Problem](https://www.codewars.com/kata/59377c53e66267c8f6000027) | [Solution](./7-kyu/alphabetWar.js)
+
+📌 **Find the vowels**  
+🔗 [Problem](https://www.codewars.com/kata/5680781b6b7c2be860000036) | [Solution](./7-kyu/vowelIndices.js)
 
 ---
 
