@@ -157,6 +157,12 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Row Weights**  
 🔗 [Problem](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9) | [Solution](./7-kyu/rowWeights.js)
 
+📌 **Alternating between three values**  
+🔗 [Problem](https://www.codewars.com/kata/596776fbb4f24d0d82000141) | [Solution](./7-kyu/f.js)
+
+📌 **Powers of 3**  
+🔗 [Problem](https://www.codewars.com/kata/57be674b93687de78c0001d9) | [Solution](./7-kyu/largestPower.js)
+
 ---
 
 ## 🟣 6 Kyu Problems
@@ -184,6 +190,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 
 📌 **Delete occurrences of an element if it occurs more than n times**  
 🔗 [Problem](https://www.codewars.com/kata/554ca54ffa7d91b236000023) | [Solution](./6-kyu/high.js)
+
+📌 **Write Number in Expanded Form**  
+🔗 [Problem](https://www.codewars.com/kata/5842df8ccbd22792a4000245) | [Solution](./6-kyu/expandedForm.js)
 
 
 ## 🟠 5 Kyu Problems
