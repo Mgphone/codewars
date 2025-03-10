@@ -108,6 +108,15 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Multiply the number**  
 🔗 [Problem](https://www.codewars.com/kata/5708f682c69b48047b000e07) | [Solution](./8-kyu/multiply.js)
 
+📌 **Contamination #1 -String-**  
+🔗 [Problem](https://www.codewars.com/kata/596fba44963025c878000039) | [Solution](./8-kyu/contamination.js)
+
+📌 **Check same case**  
+🔗 [Problem](https://www.codewars.com/kata/5dd462a573ee6d0014ce715b) | [Solution](./8-kyu/sameCase.js)
+
+📌 **Sleigh Authentication**  
+🔗 [Problem](https://www.codewars.com/kata/52adc142b2651f25a8000643) | [Solution](./8-kyu/Sleigh.js)
+
 ---
 
 ## 🔵 7 Kyu Problems
@@ -177,6 +186,17 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 
 📌 **Find the vowels**  
 🔗 [Problem](https://www.codewars.com/kata/5680781b6b7c2be860000036) | [Solution](./7-kyu/vowelIndices.js)
+
+📌 **Parts of a list**  
+🔗 [Problem](https://www.codewars.com/kata/56f3a1e899b386da78000732) | [Solution](./7-kyu/partlist.js)
+
+📌 **Sum of Cubes**  
+🔗 [Problem](https://www.codewars.com/kata/59a8570b570190d313000037) | [Solution](./7-kyu/sumCubes.js)
+
+📌 **Sort the Gift Code**  
+🔗 [Problem](https://www.codewars.com/kata/52aeb2f3ad0e952f560005d3) | [Solution](./7-kyu/sortGiftCode.js)
+
+
 
 ---
 
