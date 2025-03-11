@@ -117,6 +117,13 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Sleigh Authentication**  
 🔗 [Problem](https://www.codewars.com/kata/52adc142b2651f25a8000643) | [Solution](./8-kyu/Sleigh.js)
 
+📌 **Who ate the cookie?**  
+🔗 [Problem](https://www.codewars.com/kata/55a996e0e8520afab9000055) | [Solution](./8-kyu/cookie.js)
+
+📌 **Regexp Basics - is it a digit?**  
+🔗 [Problem](https://www.codewars.com/kata/567bf4f7ee34510f69000032) | [Solution](./8-kyu/regexBasic.js)
+
+
 ---
 
 ## 🔵 7 Kyu Problems
@@ -194,7 +201,18 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 🔗 [Problem](https://www.codewars.com/kata/59a8570b570190d313000037) | [Solution](./7-kyu/sumCubes.js)
 
 📌 **Sort the Gift Code**  
-🔗 [Problem](https://www.codewars.com/kata/52aeb2f3ad0e952f560005d3) | [Solution](./7-kyu/sortGiftCode.js)
+🔗 [Problem](https://www.codewars.com/kata/52aeb2f3ad0e952f560005d3q) | [Solution](./7-kyu/sortGiftCode.js)
+
+📌 **The old switcheroo**  
+🔗 [Problem](https://www.codewars.com/kata/55d410c492e6ed767000004f) | [Solution](./7-kyu/vowel2index.js)
+
+📌 **String ends with?**  
+🔗 [Problem](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d) | [Solution](./7-kyu/solution.js)
+
+📌 **Perimeter sequence**  
+🔗 [Problem](https://www.codewars.com/kata/589519d1f0902e01af000054) | [Solution](./7-kyu/perimeterSequence.js)
+
+
 
 
 
@@ -228,6 +246,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 
 📌 **Write Number in Expanded Form**  
 🔗 [Problem](https://www.codewars.com/kata/5842df8ccbd22792a4000245) | [Solution](./6-kyu/expandedForm.js)
+
+📌 **Are we alternate?**  
+🔗 [Problem](https://www.codewars.com/kata/59325dc15dbb44b2440000af) | [Solution](./6-kyu/isAlt.js)
 
 
 ## 🟠 5 Kyu Problems
