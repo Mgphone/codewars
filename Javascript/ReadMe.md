@@ -123,6 +123,20 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Regexp Basics - is it a digit?**  
 🔗 [Problem](https://www.codewars.com/kata/567bf4f7ee34510f69000032) | [Solution](./8-kyu/regexBasic.js)
 
+📌 **Is there a vowel in there?**  
+🔗 [Problem](https://www.codewars.com/kata/57cff961eca260b71900008f) | [Solution](./8-kyu/isVow.js)
+
+📌 **Training JS #2: Basic data types--Number**  
+🔗 [Problem](https://www.codewars.com/kata/571edd157e8954bab500032d) | [Solution](./8-kyu/equal.js)
+
+📌 **Kata Example Twist**  
+🔗 [Problem](https://www.codewars.com/kata/525c1a07bb6dda6944000031) | [Solution](./8-kyu/callName.js)
+
+📌 **How many lightsabers do you own?**  
+🔗 [Problem](https://www.codewars.com/kata/51f9d93b4095e0a7200001b8) | [Solution](./8-kyu/howManyLightsabersDoYouOwn.js)
+
+📌 **Basic Training: Add item to an Array**  
+🔗 [Problem](https://www.codewars.com/kata/511f0fe64ae8683297000001) | [Solution](./8-kyu/website.js)
 
 ---
 
@@ -212,9 +226,8 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Perimeter sequence**  
 🔗 [Problem](https://www.codewars.com/kata/589519d1f0902e01af000054) | [Solution](./7-kyu/perimeterSequence.js)
 
-
-
-
+📌 **Power of two**  
+🔗 [Problem](https://www.codewars.com/kata/534d0a229345375d520006a0) | [Solution](./7-kyu/isPowerOfTwo.js)
 
 ---
 
@@ -249,7 +262,6 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 
 📌 **Are we alternate?**  
 🔗 [Problem](https://www.codewars.com/kata/59325dc15dbb44b2440000af) | [Solution](./6-kyu/isAlt.js)
-
 
 ## 🟠 5 Kyu Problems
 
