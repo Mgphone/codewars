@@ -263,6 +263,12 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Are we alternate?**  
 🔗 [Problem](https://www.codewars.com/kata/59325dc15dbb44b2440000af) | [Solution](./6-kyu/isAlt.js)
 
+📌 **The Vowel Code**  
+🔗 [Problem](https://www.codewars.com/kata/53697be005f803751e0015aa) | [Solution](./6-kyu/encodeDecode.js)
+
+📌 **Replace With Alphabet Position**  
+🔗 [Problem](https://www.codewars.com/kata/546f922b54af40e1e90001da) | [Solution](./6-kyu/alphabetPosition.js)
+
 ## 🟠 5 Kyu Problems
 
 ---
