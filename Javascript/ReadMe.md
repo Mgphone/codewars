@@ -138,6 +138,24 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Basic Training: Add item to an Array**  
 🔗 [Problem](https://www.codewars.com/kata/511f0fe64ae8683297000001) | [Solution](./8-kyu/website.js)
 
+📌 **L1: Bartender, drinks!**  
+🔗 [Problem](https://www.codewars.com/kata/568dc014440f03b13900001d) | [Solution](./8-kyu/getDrinkByProfession.js)
+
+📌 **get ascii value of character**  
+🔗 [Problem](https://www.codewars.com/kata/55acfc59c3c23d230f00006d) | [Solution](./8-kyu/getASCII.js)
+
+📌 **UEFA EURO 2016**  
+🔗 [Problem](https://www.codewars.com/kata/57613fb1033d766171000d60) | [Solution](./8-kyu/uefaEuro2016.js)
+
+📌 **Multiple of index**  
+🔗 [Problem](https://www.codewars.com/kata/5a34b80155519e1a00000009) | [Solution](./8-kyu/multipleOfIndex.js)
+
+📌 **Leonardo Dicaprio and Oscars**  
+🔗 [Problem](https://www.codewars.com/kata/56d49587df52101de70011e4) | [Solution](./8-kyu/leo.js)
+
+📌 **Training JS #18: Methods of String object--concat() split() and its good friend join()**  
+🔗 [Problem](https://www.codewars.com/kata/56d49587df52101de70011e4) | [Solution](./8-kyu/splitAndMerge.js)
+
 ---
 
 ## 🔵 7 Kyu Problems
@@ -229,6 +247,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Power of two**  
 🔗 [Problem](https://www.codewars.com/kata/534d0a229345375d520006a0) | [Solution](./7-kyu/isPowerOfTwo.js)
 
+📌 **Convert an array of strings to array of numbers**  
+🔗 [Problem](https://www.codewars.com/kata/5783d8f3202c0e486c001d23) | [Solution](./7-kyu/toNumberArray.js)
+
 ---
 
 ## 🟣 6 Kyu Problems
@@ -268,6 +289,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 
 📌 **Replace With Alphabet Position**  
 🔗 [Problem](https://www.codewars.com/kata/546f922b54af40e1e90001da) | [Solution](./6-kyu/alphabetPosition.js)
+
+📌 **Dashatize it**  
+🔗 [Problem](https://www.codewars.com/kata/58223370aef9fc03fd000071) | [Solution](./6-kyu/dashatize.js)
 
 ## 🟠 5 Kyu Problems
 
