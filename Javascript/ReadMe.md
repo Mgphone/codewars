@@ -250,6 +250,12 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Convert an array of strings to array of numbers**  
 🔗 [Problem](https://www.codewars.com/kata/5783d8f3202c0e486c001d23) | [Solution](./7-kyu/toNumberArray.js)
 
+📌 **max diff - easy**  
+🔗 [Problem](https://www.codewars.com/kata/588a3c3ef0fbc9c8e1000095) | [Solution](./7-kyu/maxDiff.js)
+
+📌 **Smallest value of an array**  
+🔗 [Problem](https://www.codewars.com/kata/544a54fd18b8e06d240005c0) | [Solution](./7-kyu/min.js)
+
 ---
 
 ## 🟣 6 Kyu Problems
