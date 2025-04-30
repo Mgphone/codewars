@@ -156,6 +156,12 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Training JS #18: Methods of String object--concat() split() and its good friend join()**  
 🔗 [Problem](https://www.codewars.com/kata/56d49587df52101de70011e4) | [Solution](./8-kyu/splitAndMerge.js)
 
+📌 **Pythagorean Triple**  
+🔗 [Problem](https://www.codewars.com/kata/5951d30ce99cf2467e000013) | [Solution](./8-kyu/isPythagoreanTriple.js)
+
+📌 **Pythagorean Triple**  
+🔗 [Problem](https://www.codewars.com/kata/57a386117cb1f31890000039) | [Solution](./8-kyu/parseF.js)
+
 ---
 
 ## 🔵 7 Kyu Problems
@@ -255,6 +261,15 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 
 📌 **Smallest value of an array**  
 🔗 [Problem](https://www.codewars.com/kata/544a54fd18b8e06d240005c0) | [Solution](./7-kyu/min.js)
+
+📌 **V A P O R C O D E**  
+🔗 [Problem](https://www.codewars.com/kata/5966eeb31b229e44eb00007a) | [Solution](./7-kyu/vaporcode.js)
+
+📌 **Maximum Triplet Sum (Array Series #7)**  
+🔗 [Problem](https://www.codewars.com/kata/5aa1bcda373c2eb596000112) | [Solution](./7-kyu/maxTriSum.js)
+
+📌 **Predict your age!**  
+🔗 [Problem](https://www.codewars.com/kata/5aff237c578a14752d0035ae) | [Solution](./7-kyu/predictAge.js)
 
 ---
 
