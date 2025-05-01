@@ -159,8 +159,8 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Pythagorean Triple**  
 🔗 [Problem](https://www.codewars.com/kata/5951d30ce99cf2467e000013) | [Solution](./8-kyu/isPythagoreanTriple.js)
 
-📌 **Pythagorean Triple**  
-🔗 [Problem](https://www.codewars.com/kata/57a386117cb1f31890000039) | [Solution](./8-kyu/parseF.js)
+📌 **Is your period late?**  
+🔗 [Problem](https://www.codewars.com/kata/578a8a01e9fd1549e50001f1) | [Solution](./8-kyu/periodIsLate.js)
 
 ---
 
@@ -270,6 +270,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 
 📌 **Predict your age!**  
 🔗 [Problem](https://www.codewars.com/kata/5aff237c578a14752d0035ae) | [Solution](./7-kyu/predictAge.js)
+
+📌 **Unique Sum**  
+🔗 [Problem](https://www.codewars.com/kata/56b1eb19247c01493a000065) | [Solution](./7-kyu/uniqueSum.js)
 
 ---
 

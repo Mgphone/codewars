@@ -9,6 +9,9 @@ This repository contains Python solutions for CodeWars problems, categorized by 
 📌 **Parse float**  
 🔗 [Problem](https://www.codewars.com/kata/57a386117cb1f31890000039/python) | [Solution](./8-kyu/parse_float.py)
 
+📌 **Is your period late?**  
+🔗 [Problem](https://www.codewars.com/kata/578a8a01e9fd1549e50001f1/python) | [Solution](./8-kyu/period_is_late.py)
+
 ## 🔵 7 Kyu Problems
 
 ---
