@@ -162,6 +162,12 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Is your period late?**  
 🔗 [Problem](https://www.codewars.com/kata/578a8a01e9fd1549e50001f1) | [Solution](./8-kyu/periodIsLate.js)
 
+📌 **Tip Calculator**  
+🔗 [Problem](https://www.codewars.com/kata/56598d8076ee7a0759000087) | [Solution](./8-kyu/calculateTip.js)
+
+📌 **Name on billboard**  
+🔗 [Problem](https://www.codewars.com/kata/570e8ec4127ad143660001fd) | [Solution](./8-kyu/billboard.js)
+
 ---
 
 ## 🔵 7 Kyu Problems
@@ -274,6 +280,15 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Unique Sum**  
 🔗 [Problem](https://www.codewars.com/kata/56b1eb19247c01493a000065) | [Solution](./7-kyu/uniqueSum.js)
 
+📌 **Balanced Number (Special Numbers Series #1 )**  
+🔗 [Problem](https://www.codewars.com/kata/5a4e3782880385ba68000018) | [Solution](./7-kyu/balancedNum.js)
+
+📌 **Shortest Word**  
+🔗 [Problem](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9) | [Solution](./7-kyu/findShort.js)
+
+📌 **Sorted? yes? no? how?**  
+🔗 [Problem](https://www.codewars.com/kata/580a4734d6df748060000045) | [Solution](./7-kyu/isSortedAndHow.js)
+
 ---
 
 ## 🟣 6 Kyu Problems
@@ -316,6 +331,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 
 📌 **Dashatize it**  
 🔗 [Problem](https://www.codewars.com/kata/58223370aef9fc03fd000071) | [Solution](./6-kyu/dashatize.js)
+
+📌 **Kebabize**  
+🔗 [Problem](https://www.codewars.com/kata/57f8ff867a28db569e000c4a) | [Solution](./6-kyu/kebabize.js)
 
 ## 🟠 5 Kyu Problems
 
