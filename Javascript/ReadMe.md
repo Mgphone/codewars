@@ -168,6 +168,15 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Name on billboard**  
 🔗 [Problem](https://www.codewars.com/kata/570e8ec4127ad143660001fd) | [Solution](./8-kyu/billboard.js)
 
+📌 **pick a set of first elements**  
+🔗 [Problem](https://www.codewars.com/kata/572b77262bedd351e9000076) | [Solution](./8-kyu/first.js)
+
+📌 **Duck Duck Goose**  
+🔗 [Problem](https://www.codewars.com/kata/582e0e592029ea10530009ce) | [Solution](./8-kyu/duckDuckGoose.js)
+
+📌 **For Twins: 1. Types**  
+🔗 [Problem](https://www.codewars.com/kata/59c1302ecb7fb48757000013) | [Solution](./8-kyu/typeValidation.js)
+
 ---
 
 ## 🔵 7 Kyu Problems
@@ -288,6 +297,12 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 
 📌 **Sorted? yes? no? how?**  
 🔗 [Problem](https://www.codewars.com/kata/580a4734d6df748060000045) | [Solution](./7-kyu/isSortedAndHow.js)
+
+📌 **Find the nth Digit of a Number**  
+🔗 [Problem](https://www.codewars.com/kata/577b9960df78c19bca00007e) | [Solution](./7-kyu/findDigit.js)
+
+📌 **Number of Decimal Digits**  
+🔗 [Problem](https://www.codewars.com/kata/58fa273ca6d84c158e000052) | [Solution](./7-kyu/digits.js)
 
 ---
 
