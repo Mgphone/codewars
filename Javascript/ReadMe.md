@@ -177,6 +177,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **For Twins: 1. Types**  
 🔗 [Problem](https://www.codewars.com/kata/59c1302ecb7fb48757000013) | [Solution](./8-kyu/typeValidation.js)
 
+📌 **Find numbers which are divisible by given number**  
+🔗 [Problem](https://www.codewars.com/kata/55edaba99da3a9c84000003b) | [Solution](./8-kyu/divisibleBy.js)
+
 ---
 
 ## 🔵 7 Kyu Problems
@@ -303,6 +306,12 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 
 📌 **Number of Decimal Digits**  
 🔗 [Problem](https://www.codewars.com/kata/58fa273ca6d84c158e000052) | [Solution](./7-kyu/digits.js)
+
+📌 **Bumps in the Road**  
+🔗 [Problem](https://www.codewars.com/kata/57ed30dde7728215300005fa) | [Solution](./7-kyu/bump.js)
+
+📌 **Sort Out The Men From Boys**  
+🔗 [Problem](https://www.codewars.com/kata/5af15a37de4c7f223e00012d) | [Solution](./7-kyu/menFromBoys.js)
 
 ---
 
