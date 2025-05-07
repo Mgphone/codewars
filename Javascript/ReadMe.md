@@ -180,6 +180,21 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Find numbers which are divisible by given number**  
 🔗 [Problem](https://www.codewars.com/kata/55edaba99da3a9c84000003b) | [Solution](./8-kyu/divisibleBy.js)
 
+📌 **validate code with simple regex**  
+🔗 [Problem](https://www.codewars.com/kata/56a25ba95df27b7743000016) | [Solution](./8-kyu/validateCode.js)
+
+📌 **USD => CNY**  
+🔗 [Problem](https://www.codewars.com/kata/5977618080ef220766000022) | [Solution](./8-kyu/usdcny.js)
+
+📌 **ASCII Total**  
+🔗 [Problem](https://www.codewars.com/kata/572b6b2772a38bc1e700007a) | [Solution](./8-kyu/ascii.js)
+
+📌 **Is it a number?**  
+🔗 [Problem](https://www.codewars.com/kata/57126304cdbf63c6770012bd) | [Solution](./8-kyu/isDigit.js)
+
+📌 **Geometry Basics: Distance between points in 2D**  
+🔗 [Problem](https://www.codewars.com/kata/58dced7b702b805b200000be) | [Solution](./8-kyu/alterNative.js)
+
 ---
 
 ## 🔵 7 Kyu Problems
@@ -312,6 +327,21 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 
 📌 **Sort Out The Men From Boys**  
 🔗 [Problem](https://www.codewars.com/kata/5af15a37de4c7f223e00012d) | [Solution](./7-kyu/menFromBoys.js)
+
+📌 **Testing 1-2-3**  
+🔗 [Problem](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9) | [Solution](./7-kyu/testing123.js)
+
+📌 **Largest pair sum in array**  
+🔗 [Problem](https://www.codewars.com/kata/556196a6091a7e7f58000018) | [Solution](./7-kyu/largestPairSum.js)
+
+📌 **Divide and Conquer**  
+🔗 [Problem](https://www.codewars.com/kata/57eaec5608fed543d6000021) | [Solution](./7-kyu/divConc.js)
+
+📌 **The Office I - Outed**  
+🔗 [Problem](https://www.codewars.com/kata/57ecf6efc7fe13eb070000e1) | [Solution](./7-kyu/outed.js)
+
+📌 **Most digits**  
+🔗 [Problem](https://www.codewars.com/kata/58daa7617332e59593000006) | [Solution](./7-kyu/findLongest.js)
 
 ---
 
