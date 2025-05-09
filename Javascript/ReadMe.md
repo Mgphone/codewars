@@ -193,7 +193,13 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 🔗 [Problem](https://www.codewars.com/kata/57126304cdbf63c6770012bd) | [Solution](./8-kyu/isDigit.js)
 
 📌 **Geometry Basics: Distance between points in 2D**  
-🔗 [Problem](https://www.codewars.com/kata/58dced7b702b805b200000be) | [Solution](./8-kyu/alterNative.js)
+🔗 [Problem](https://www.codewars.com/kata/58dced7b702b805b200000be) | [Solution](./8-kyu/distanceBetweenPoints.js)
+
+📌 **altERnaTIng cAsE <=> ALTerNAtiNG CaSe**  
+🔗 [Problem](https://www.codewars.com/kata/56efc695740d30f963000557) | [Solution](./8-kyu/alterNative.js)
+
+📌 **For UFC Fans (Total Beginners): Conor McGregor vs George Saint Pierre**  
+🔗 [Problem](https://www.codewars.com/kata/582dafb611d576b745000b74) | [Solution](./8-kyu/quote.js)
 
 ---
 
@@ -342,6 +348,24 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 
 📌 **Most digits**  
 🔗 [Problem](https://www.codewars.com/kata/58daa7617332e59593000006) | [Solution](./7-kyu/findLongest.js)
+
+📌 **Even odd disparity**  
+🔗 [Problem](https://www.codewars.com/kata/59c62f1bdcc40560a2000060) | [Solution](./7-kyu/solve.js)
+
+📌 **Indexed capitalization**  
+🔗 [Problem](https://www.codewars.com/kata/59cfc09a86a6fdf6df0000f1) | [Solution](./7-kyu/caplitalized.js)
+
+📌 **Form The Minimum**  
+🔗 [Problem](https://www.codewars.com/kata/5ac6932b2f317b96980000ca) | [Solution](./7-kyu/minValue.js)
+
+📌 **Nth Smallest Element (Array Series #4)**  
+🔗 [Problem](https://www.codewars.com/kata/5a512f6a80eba857280000fc) | [Solution](./7-kyu/nthSmallest.js)
+
+📌 **Automorphic Number (Special Numbers Series #6)**  
+🔗 [Problem](https://www.codewars.com/kata/5a58d889880385c2f40000aa) | [Solution](./7-kyu/automorphic.js)
+
+📌 **Functional Addition**  
+🔗 [Problem](https://www.codewars.com/kata/538835ae443aae6e03000547) | [Solution](./7-kyu/add.js)
 
 ---
 
