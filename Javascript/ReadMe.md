@@ -201,6 +201,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **For UFC Fans (Total Beginners): Conor McGregor vs George Saint Pierre**  
 🔗 [Problem](https://www.codewars.com/kata/582dafb611d576b745000b74) | [Solution](./8-kyu/quote.js)
 
+📌 **Training JS #12: loop statement --for..in and for..of**  
+🔗 [Problem](https://www.codewars.com/kata/5722b3f0bd5583cf44001000) | [Solution](./8-kyu/giveMeFive.js)
+
 ---
 
 ## 🔵 7 Kyu Problems
@@ -366,6 +369,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 
 📌 **Functional Addition**  
 🔗 [Problem](https://www.codewars.com/kata/538835ae443aae6e03000547) | [Solution](./7-kyu/add.js)
+
+📌 **Digits explosion**  
+🔗 [Problem](https://www.codewars.com/kata/585b1fafe08bae9988000314) | [Solution](./7-kyu/explode.js)
 
 ---
 
