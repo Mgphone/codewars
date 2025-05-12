@@ -204,6 +204,12 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Training JS #12: loop statement --for..in and for..of**  
 🔗 [Problem](https://www.codewars.com/kata/5722b3f0bd5583cf44001000) | [Solution](./8-kyu/giveMeFive.js)
 
+📌 **grader**  
+🔗 [Problem](https://www.codewars.com/kata/53d16bd82578b1fb5b00128c) | [Solution](./8-kyu/grader.js)
+
+📌 **esreveR**  
+🔗 [Problem](https://www.codewars.com/kata/57f759bb664021a30300007d) | [Solution](./8-kyu/esreveR.js)
+
 ---
 
 ## 🔵 7 Kyu Problems
@@ -373,6 +379,12 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Digits explosion**  
 🔗 [Problem](https://www.codewars.com/kata/585b1fafe08bae9988000314) | [Solution](./7-kyu/explode.js)
 
+📌 **Incrementer**  
+🔗 [Problem](https://www.codewars.com/kata/590e03aef55cab099a0002e8) | [Solution](./7-kyu/incrementer.js)
+
+📌 **Switcheroo**  
+🔗 [Problem](https://www.codewars.com/kata/57f759bb664021a30300007d) | [Solution](./7-kyu/switcheroo.js)
+
 ---
 
 ## 🟣 6 Kyu Problems
@@ -418,6 +430,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 
 📌 **Kebabize**  
 🔗 [Problem](https://www.codewars.com/kata/57f8ff867a28db569e000c4a) | [Solution](./6-kyu/kebabize.js)
+
+📌 **Encrypt this!**  
+🔗 [Problem](https://www.codewars.com/kata/5848565e273af816fb000449) | [Solution](./6-kyu/encryptThis.js)
 
 ## 🟠 5 Kyu Problems
 
