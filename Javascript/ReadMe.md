@@ -207,8 +207,11 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **grader**  
 🔗 [Problem](https://www.codewars.com/kata/53d16bd82578b1fb5b00128c) | [Solution](./8-kyu/grader.js)
 
-📌 **esreveR**  
-🔗 [Problem](https://www.codewars.com/kata/57f759bb664021a30300007d) | [Solution](./8-kyu/esreveR.js)
+📌 **Crash Override**  
+🔗 [Problem](https://www.codewars.com/kata/578c1e2edaa01a9a02000b7f) | [Solution](./8-kyu/aliasGen.js)
+
+📌 **Template Stringse**  
+🔗 [Problem](https://www.codewars.com/kata/55a14f75ceda999ced000048) | [Solution](./8-kyu/templateString.js)
 
 ---
 
@@ -384,6 +387,15 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 
 📌 **Switcheroo**  
 🔗 [Problem](https://www.codewars.com/kata/57f759bb664021a30300007d) | [Solution](./7-kyu/switcheroo.js)
+
+📌 **esreveR**  
+🔗 [Problem](https://www.codewars.com/kata/57f759bb664021a30300007d) | [Solution](./7-kyu/esreveR.js)
+
+📌 **reverseLetter**  
+🔗 [Problem](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b) | [Solution](./7-kyu/reverseLetter.js)
+
+📌 **Ordered Count of Characters**  
+🔗 [Problem](https://www.codewars.com/kata/57a6633153ba33189e000074) | [Solution](./7-kyu/orderedCount.js)
 
 ---
 
