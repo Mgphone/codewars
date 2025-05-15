@@ -213,6 +213,9 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 📌 **Template Stringse**  
 🔗 [Problem](https://www.codewars.com/kata/55a14f75ceda999ced000048) | [Solution](./8-kyu/templateString.js)
 
+📌 **Type of sum**  
+🔗 [Problem](https://www.codewars.com/kata/5a2e9ae2b6cfd7692a0000ba) | [Solution](./8-kyu/templateString.js)
+
 ---
 
 ## 🔵 7 Kyu Problems
@@ -396,6 +399,12 @@ This repository contains JavaScript solutions for CodeWars problems, categorized
 
 📌 **Ordered Count of Characters**  
 🔗 [Problem](https://www.codewars.com/kata/57a6633153ba33189e000074) | [Solution](./7-kyu/orderedCount.js)
+
+📌 **Simple beads count**  
+🔗 [Problem](https://www.codewars.com/kata/58712dfa5c538b6fc7000569) | [Solution](./7-kyu/countRedBeads.js)
+
+📌 **Filter the number**  
+🔗 [Problem](https://www.codewars.com/kata/55b051fac50a3292a9000025) | [Solution](./7-kyu/filterString.js)
 
 ---
 
